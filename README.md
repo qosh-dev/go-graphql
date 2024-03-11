@@ -17,7 +17,7 @@ Example:
 1. Create a new folder for the Project
 `mkdir gql-yt`
 2. Mod init your project, give it whatever name you like
-`go mod init github.com/akhil/gql-yt`
+`go mod init {{NAME}}`
 3. Get gql gen for your project
 `go get github.com/99designs/gqlgen`
 4. Add gqlgen to tools.go
